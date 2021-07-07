@@ -1,4 +1,4 @@
-@[TOC](计算机图形学项目一：抗锯齿FXAA)
+# 计算机图形学项目一：抗锯齿FXAA 
 
 ## FXAA特点
 FXAA全程是Fast Approximate Anti-Aliasing，指的是快速近似抗锯齿，特点是处理速度快，方便整合在后处理的渲染管线。 

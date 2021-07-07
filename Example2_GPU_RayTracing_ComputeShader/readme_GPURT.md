@@ -1,4 +1,4 @@
-@[TOC](GPU光线追踪)
+# GPU光线追踪(OpenGL-ComputeShader)
 ## 1.背景
 此项目RayTracing的实现是基于OGL和ComputeShader的，计算的方法参考自Shirley的光线追踪教程，本文着重介绍在Compute Shader中如何编写Ray Tracing的计算过程。 
 ## 2.ComputeShader简介
